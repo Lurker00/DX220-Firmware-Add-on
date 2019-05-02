@@ -22,8 +22,8 @@ After iBasso released OTA-like update (1.01.092), it is enough to re-apply the u
 ### Android
 * Google Play Store added.
 * [Magisk](https://magiskmanager.com/) can be used to install additional modules, and to provide root access.
-* [USB Audio application](https://github.com/Lurker00/DX220-USB-Audio-Release/blob/master/README.md), which is also useful for its [System settings](https://github.com/Lurker00/DX220-USB-Audio-Release/blob/master/README.md#system-settings).
-* Custom build of [HibyMusic](https://play.google.com/store/apps/details?id=com.hiby.music), which plays bit perfect PCM up to 32/384kHz with no additional efforts, and fully compatible with [USB Audio application](https://github.com/Lurker00/DX220-USB-Audio-Release/blob/master/README.md) for bit perfect DSD and SACD ISO playback.
+* [USB Audio application](https://github.com/Lurker00/DX200-USB-Audio-Release/blob/master/README.md), which is also useful for its [System settings](https://github.com/Lurker00/DX200-USB-Audio-Release/blob/master/README.md#system-settings).
+* Custom build of [HibyMusic](https://play.google.com/store/apps/details?id=com.hiby.music), which plays bit perfect PCM up to 32/384kHz with no additional efforts, and fully compatible with [USB Audio application](https://github.com/Lurker00/DX200-USB-Audio-Release/blob/master/README.md) for bit perfect DSD and SACD ISO playback.
 * 126MHz CPU frequency added (216MHz is officially lowest), which is enough for most tasks.
 * The process of [device registration](https://www.google.com/android/uncertified/) is much simplified (required to make Google Play Services work on uncertified device).
 ### Mango
