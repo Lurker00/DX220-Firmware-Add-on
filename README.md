@@ -28,7 +28,7 @@ After iBasso released OTA-like update (1.01.092), it is enough to re-apply the u
 * The process of [device registration](https://www.google.com/android/uncertified/) is much simplified (required to make Google Play Services work on uncertified device).
 ### Mango
 * Removed Android services, that are not used in this mode.
-* Performance insreased.
+* Performance increased.
 ### Common
 * Safer parameters of battery charger to prevent overheating.
 
