@@ -35,4 +35,5 @@ After iBasso released OTA-like update (1.01.092), it is enough to re-apply the u
 * Safer parameters of battery charger to prevent overheating.
 
 ## History of public releases
-* [**1.18**](https://github.com/Lurker00/DX220-Firmware-Add-on/releases/tag/v1.18) - release for official firmware 1.01.092.
+* [**1.19**](https://github.com/Lurker00/DX220-Firmware-Add-on/releases/tag/v1.19) - release for official firmware 1.10.123.
+* [**1.18**](https://github.com/Lurker00/DX220-Firmware-Add-on/releases/tag/v1.18) - release for official firmware 1.09.092.
