@@ -18,7 +18,7 @@ For Windows, you should have installed drivers from Rockchip. You can download t
 If you need Magisk Manager, please install it manually from the [official source](https://github.com/topjohnwu/Magisk/releases/).
 
 ## How to return back to the official firmware
-After iBasso released OTA-like update (1.01.092), it is enough to re-apply the update, then do a factory reset.
+After iBasso released OTA-like update (1.09.092, 1.10.123...), it is enough to re-apply the update, then do a factory reset.
 
 ## Changes made
 ### Android
@@ -27,6 +27,8 @@ After iBasso released OTA-like update (1.01.092), it is enough to re-apply the u
 * [USB Audio application](https://github.com/Lurker00/DX200-USB-Audio-Release/blob/master/README.md), which is also useful for its [System settings](https://github.com/Lurker00/DX200-USB-Audio-Release/blob/master/README.md#system-settings).
 * Custom build of [HibyMusic](https://play.google.com/store/apps/details?id=com.hiby.music), which plays bit perfect PCM up to 32/384kHz with no additional efforts, and fully compatible with [USB Audio application](https://github.com/Lurker00/DX200-USB-Audio-Release/blob/master/README.md) for bit perfect DSD and SACD ISO playback.
 * 126MHz CPU frequency added (216MHz is officially lowest), which is enough for most tasks.
+* Overall performance increased.
+* During music playback, the device is managed to prevent idle state tasks.
 * The process of [device registration](https://www.google.com/android/uncertified/) is much simplified (required to make Google Play Services work on uncertified device).
 ### Mango
 * Removed Android services, that are not used in this mode.
