@@ -29,6 +29,7 @@ After iBasso released OTA-like update (1.09.092, 1.10.123...), it is enough to r
 * 126MHz CPU frequency added (216MHz is officially lowest), which is enough for most tasks.
 * Overall performance increased.
 * During music playback, the device is managed to prevent idle state tasks.
+* Better thermal control, to prevent overheating.
 * The process of [device registration](https://www.google.com/android/uncertified/) is much simplified (required to make Google Play Services work on uncertified device).
 ### Mango
 * Removed Android services, that are not used in this mode.
