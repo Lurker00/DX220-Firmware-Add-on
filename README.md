@@ -30,6 +30,7 @@ After iBasso released OTA-like update (1.09.092, 1.10.123...), it is enough to r
 * Overall performance increased.
 * During music playback, the device is managed to prevent idle state tasks.
 * Better thermal control, to prevent overheating.
+* A different approach to control brightness at low levels.
 * The process of [device registration](https://www.google.com/android/uncertified/) is much simplified (required to make Google Play Services work on uncertified device).
 ### Mango
 * Removed Android services, that are not used in this mode.
@@ -38,5 +39,6 @@ After iBasso released OTA-like update (1.09.092, 1.10.123...), it is enough to r
 * Safer parameters of battery charger to prevent overheating.
 
 ## History of public releases
+* [**1.20**](https://github.com/Lurker00/DX220-Firmware-Add-on/releases/tag/v1.20) - release for official firmware 1.11.140.
 * [**1.19**](https://github.com/Lurker00/DX220-Firmware-Add-on/releases/tag/v1.19) - release for official firmware 1.10.123.
 * [**1.18**](https://github.com/Lurker00/DX220-Firmware-Add-on/releases/tag/v1.18) - release for official firmware 1.09.092.
