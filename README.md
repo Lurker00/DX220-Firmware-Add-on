@@ -34,6 +34,7 @@ True OTA does not work with add-on, because the build number is different. You n
 * During music playback, the device is managed to prevent idle state tasks.
 * Better thermal control, to prevent overheating.
 * A different approach to control brightness at low levels.
+* Less power consumption in suspend mode.
 * The process of [device registration](https://www.google.com/android/uncertified/) is much simplified (required to make Google Play Services work on uncertified device).
 ### Mango
 * Removed Android services, that are not used in this mode.
