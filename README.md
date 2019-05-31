@@ -20,6 +20,9 @@ If you need Magisk Manager, please install it manually from the [official source
 ## How to return back to the official firmware
 After iBasso released OTA-like update (1.09.092, 1.10.123...), it is enough to re-apply the update, then do a factory reset.
 
+## How to update the official firmware
+True OTA does not work with add-on, because the build number is different. You need to download the update from [iBasso site](http://ibasso.com/down.php), put it to SD-card or Internal storage, and start manual upgrade. Then you may install an add-on compatible with the new firmware version, if any.
+
 ## Changes made
 ### Android
 * Google Play Store added.
