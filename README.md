@@ -5,7 +5,7 @@ Android 8.1 for DX220 protects main partitions with [Verity](https://source.andr
 
 To check the current add-on version in Android mode, go to _Settings_, _About DX220_, _Build number_ at the bottom.
 
-**WARNING:** Add-ons are *not* compatible with encrypted devices!
+**WARNING:** Add-ons are *not* compatible with encrypted devices!<br />
 **WARNING:** Do *not* update Magisk via MagiskManager! It will cause problems!
 
 ## How to apply or update the add-on
