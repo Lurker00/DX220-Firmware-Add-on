@@ -30,8 +30,6 @@ True OTA does not work with add-on, because the build number is different. You n
 * Overall performance increased.
 * During music playback, the device is managed to prevent idle state tasks.
 * Performance tweak for popular music players (Neutron, UAPP, Tidal, Spotify). Such a tweak is used on Rockchip SoC based devices for benchmark apps, iBasso sets it for its Mango Player.
-* Better thermal control.
-* A different approach to control brightness at low levels.
 * The process of [device registration](https://www.google.com/android/uncertified/) is much simplified (required to make Google Play Services work on uncertified device).
 * [Magisk](https://magiskmanager.com/) can be used to install additional modules, and to provide root access.
 * [USB Audio application](https://github.com/Lurker00/DX200-USB-Audio-Release/blob/master/README.md), which is also useful for its [System settings](https://github.com/Lurker00/DX200-USB-Audio-Release/blob/master/README.md#system-settings).
@@ -42,6 +40,8 @@ True OTA does not work with add-on, because the build number is different. You n
 * Performance increased.
 ### Common
 * Safer parameters of battery charger to prevent overheating.
+* Better thermal control.
+* A different approach to control brightness at low levels.
 
 ## History of public releases
 * [**1.22**](https://github.com/Lurker00/DX220-Firmware-Add-on/releases/tag/v1.22) - release for official firmware 1.13.150.
