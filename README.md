@@ -44,7 +44,7 @@ True OTA does not work with add-on, because the build number is different. You n
 * A different approach to control brightness at low levels.
 
 ## History of public releases
-* [**1.22**](https://github.com/Lurker00/DX220-Firmware-Add-on/releases/tag/v1.22) - release for official firmware 1.13.150.
+* [**1.22**](https://github.com/Lurker00/DX220-Firmware-Add-on/releases/tag/v1.22) - release for official firmware 1.13.202.
 * [**1.21**](https://github.com/Lurker00/DX220-Firmware-Add-on/releases/tag/v1.21) - release for official firmware 1.12.149.
 * [**1.20**](https://github.com/Lurker00/DX220-Firmware-Add-on/releases/tag/v1.20) - release for official firmware 1.11.140.
 * [**1.19**](https://github.com/Lurker00/DX220-Firmware-Add-on/releases/tag/v1.19) - release for official firmware 1.10.123.
