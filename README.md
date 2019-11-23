@@ -46,6 +46,7 @@ It's up to the end user to decide whether these changes affect sound or not. I b
 * A different approach to control brightness at low levels.
 
 ## History of public releases
+* [**1.23**](https://github.com/Lurker00/DX220-Firmware-Add-on/releases/tag/v1.23) - release for official firmware 1.15.233.
 * [**1.22**](https://github.com/Lurker00/DX220-Firmware-Add-on/releases/tag/v1.22) - release for official firmware 1.13.202.
 * [**1.21**](https://github.com/Lurker00/DX220-Firmware-Add-on/releases/tag/v1.21) - release for official firmware 1.12.149.
 * [**1.20**](https://github.com/Lurker00/DX220-Firmware-Add-on/releases/tag/v1.20) - release for official firmware 1.11.140.
