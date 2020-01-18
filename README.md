@@ -50,7 +50,7 @@ It's up to the end user to decide whether these changes affect sound or not. I b
 **Note**: MagiskManager icon is, actually, a stub injected by Magisk core. It is intended by the developer to help installing full MagiskManager, but I disable it to stop annoying. Should you need [MagiskManager, please install it manually](https://github.com/topjohnwu/Magisk/releases).
 
 ## History of public releases
-* [**1.24**](https://github.com/Lurker00/DX220-Firmware-Add-on/releases/tag/v1.24) - release for official firmware 1.16.241.
+* [**1.24**](https://github.com/Lurker00/DX220-Firmware-Add-on/releases/tag/v1.24) - release for official firmware 1.16.242.
 * [**1.23**](https://github.com/Lurker00/DX220-Firmware-Add-on/releases/tag/v1.23) - release for official firmware 1.15.233.
 * [**1.22**](https://github.com/Lurker00/DX220-Firmware-Add-on/releases/tag/v1.22) - release for official firmware 1.13.202.
 * [**1.21**](https://github.com/Lurker00/DX220-Firmware-Add-on/releases/tag/v1.21) - release for official firmware 1.12.149.
