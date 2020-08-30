@@ -36,14 +36,13 @@ It's up to the end user to decide whether these changes affect sound or not. I b
 * [Magisk](https://magiskmanager.com/) can be used to install additional modules, and to provide root access.
 * [USB Audio application](https://github.com/Lurker00/DX200-USB-Audio-Release/blob/master/README.md), which is also useful for its [System settings](https://github.com/Lurker00/DX200-USB-Audio-Release/blob/master/README.md#system-settings).
 * Custom build of [HibyMusic](https://play.google.com/store/apps/details?id=com.hiby.music), which plays bit perfect PCM up to 32/384kHz with no additional efforts, and is fully compatible with [USB Audio application](https://github.com/Lurker00/DX200-USB-Audio-Release/blob/master/README.md) for bit perfect DSD and SACD ISO playback.
-* Removed APKPure, CoolAPK.
+* Removed [APKPure](https://www.apkpure.com), [CoolAPK](https://www.coolapk.com). Install them from their official websites, if you need them.
 
 ### Mango
 * Removed Android services, that are not used in this mode.
 * Performance increased.
 
 ### Common
-* Safer parameters of battery charger to prevent overheating.
 * Better thermal control.
 * A different approach to control brightness at low levels.
 
