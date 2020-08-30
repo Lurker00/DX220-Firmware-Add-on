@@ -31,7 +31,7 @@ It's up to the end user to decide whether these changes affect sound or not. I b
 * Reduced power consumption during music playback and in suspend mode.
 * Overall performance increased.
 * During music playback, the device is managed to prevent idle state tasks.
-* Performance tweak for popular music players (Neutron, UAPP, Tidal, Spotify). Such a tweak is used on Rockchip SoC based devices for benchmark apps, iBasso sets it for its Mango Player.
+* Performance tweak for popular music players. Such a tweak is used on Rockchip SoC based devices for benchmark apps, iBasso sets it for its Mango Player.
 * The process of [device registration](https://www.google.com/android/uncertified/) is much simplified (required to make Google Play Services work on uncertified device).
 * [Magisk](https://magiskmanager.com/) can be used to install additional modules, and to provide root access.
 * [USB Audio application](https://github.com/Lurker00/DX200-USB-Audio-Release/blob/master/README.md), which is also useful for its [System settings](https://github.com/Lurker00/DX200-USB-Audio-Release/blob/master/README.md#system-settings).
@@ -50,6 +50,7 @@ It's up to the end user to decide whether these changes affect sound or not. I b
 **Note**: MagiskManager icon is, actually, a stub injected by Magisk core. It is intended by the developer to help installing full MagiskManager, but I disable it to stop annoying. Should you need [MagiskManager, please install it manually](https://github.com/topjohnwu/Magisk/releases).
 
 ## History of public releases
+* [**1.25**](https://github.com/Lurker00/DX220-Firmware-Add-on/releases/tag/v1.25) - release for official firmware 1.17.256.
 * [**1.24**](https://github.com/Lurker00/DX220-Firmware-Add-on/releases/tag/v1.24) - release for official firmware 1.16.242.
 * [**1.23**](https://github.com/Lurker00/DX220-Firmware-Add-on/releases/tag/v1.23) - release for official firmware 1.15.233.
 * [**1.22**](https://github.com/Lurker00/DX220-Firmware-Add-on/releases/tag/v1.22) - release for official firmware 1.13.202.
